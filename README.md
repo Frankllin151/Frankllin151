@@ -1,5 +1,6 @@
 ### Hello, my name and Frankllin 👋
-
+<img align="center" style="margin-bottom:100px" width=100% src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" />
+&nbsp;&nbsp;&nbsp;
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -9,7 +10,7 @@
   
 </div>
 
-
+<br>
 <div> 
 
   <a href="https://www.instagram.com/techgroweb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
