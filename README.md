@@ -29,8 +29,5 @@
 
 <div>
 
- ## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://img.shields.io/github/followers/Frankllin151?label=Seguidores&style=social)
-![Estatísticas do GitHub](https://img.shields.io/github/stars/Frankllin151?label=Estrelas&style=social)
+![Snake Animation](https://github.com/Frankllin151/Frankllin151/blob/output/github-contribution-grid-snake.gif)
 </div>
