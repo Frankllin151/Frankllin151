@@ -5,7 +5,7 @@
 <p align="center"> <strong> Hiim , Devs</strong> 🦈 <br><br>I am passionate about technology, driven by the incessant search for knowledge,<br> passionate about challenges that drive my constant growth.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Frankllin151&theme=radical&mode=weekly" />
+
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Frankllin151&show_icons=true&theme=radical&layout=compact" />
  </div>
  
