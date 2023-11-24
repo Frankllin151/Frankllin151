@@ -26,3 +26,11 @@
   <a href="https://www.linkedin.com/in/frankllin-silva-579250219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<div>
+
+ ## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://img.shields.io/github/followers/Frankllin151?label=Seguidores&style=social)
+![Estatísticas do GitHub](https://img.shields.io/github/stars/Frankllin151?label=Estrelas&style=social)
+</div>
