@@ -1,6 +1,14 @@
 ### Hello, my name and Frankllin 👋
 <img align="center" style="margin-bottom:100px" width=100% src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" />
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; <br>
+
+<p align="center"> <strong> Hiim , Devs</strong> 🦈 <br><br>I am passionate about technology, driven by the incessant search for knowledge,<br> passionate about challenges that drive my constant growth.</p>&nbsp;
+
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Frankllin151&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Frankllin151&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
