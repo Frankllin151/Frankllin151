@@ -1,8 +1,8 @@
-### Hello, my name and Frankllin 👋
+### Bem vindo o meu perfil 👋
 <img align="center" style="margin-bottom:100px" width=100% src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" />
 &nbsp;&nbsp;&nbsp; <br>
 
-<p align="center"> <strong> Hiim , Devs</strong> 🦈 <br><br>I am passionate about technology, driven by the incessant search for knowledge,<br> passionate about challenges that drive my constant growth.</p>&nbsp;
+<p align="center"> <strong> Olá, Devs</strong> 🦈 <br><br> Sou um desenvolvedor freelancer especializado em PHP, WordPress e Laravel. Ofereço serviços personalizados, com foco em soluções eficientes e criativas para cada projeto. Trabalho de forma colaborativa, buscando sempre atender às necessidades específicas de cada cliente. <br><br> Meus serviços incluem: <br> - Desenvolvimento Web (PHP, WordPress, Laravel) <br> - Criação de sistemas personalizados <br> - Consultoria e manutenção contínua <br> - Design e UX/UI para uma experiência digital única.</p>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Frankllin151&theme=radical&mode=weekly" />
