@@ -27,7 +27,7 @@
 </div>
 
 <br>
-<h2>Entre contato</h2>
+<h2>Entre em contato</h2>
 <br>
 <div> 
 
